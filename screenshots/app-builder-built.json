@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "America Actually",
+      "hasCanvas": false,
+      "bodyTextLen": 731,
+      "bodyTextHash": "b574bf893df8a0dd063acecff60b8e049481588560306139b19f6a2cf05ac6af",
+      "bodyTextPrefix": "America Actually See the mix, not just the winner How to read Pl",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "America Actually",
+      "hasCanvas": false,
+      "bodyTextLen": 204,
+      "bodyTextHash": "46f9f6f51355e030467ca1bf802e3ffcc98c432a1fb16cf5e7b40fd16e0e257c",
+      "bodyTextPrefix": "America Actually How to read Plug in 2008 2012 2016 2020 2024 Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

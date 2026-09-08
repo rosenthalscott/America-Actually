@@ -1,0 +1,74 @@
+{
+  "id": "harbor-city-council",
+  "title": "Harbor City Council",
+  "subtitle": "Sample custom map",
+  "year": 2024,
+  "office": "City Council",
+  "geographyId": "harbor-city",
+  "parties": [
+    {
+      "id": "dem",
+      "label": "Coalition",
+      "shortLabel": "C",
+      "color": "#1D4E89"
+    },
+    {
+      "id": "gop",
+      "label": "Civic",
+      "shortLabel": "V",
+      "color": "#B91C2C"
+    },
+    {
+      "id": "oth",
+      "label": "Other",
+      "shortLabel": "O",
+      "color": "#5F7A4A"
+    }
+  ],
+  "source": "Fictional sample so you can see a plugged-in custom map.",
+  "notes": "Invented districts and votes. Use Plug in to replace this with a real GeoJSON + CSV.",
+  "rows": [
+    {
+      "id": "north-harbor",
+      "name": "North Harbor",
+      "dem": 6120,
+      "gop": 2880,
+      "oth": 210
+    },
+    {
+      "id": "the-wharf",
+      "name": "The Wharf",
+      "dem": 4410,
+      "gop": 3790,
+      "oth": 180
+    },
+    {
+      "id": "midtown",
+      "name": "Midtown",
+      "dem": 3904,
+      "gop": 4088,
+      "oth": 240
+    },
+    {
+      "id": "east-ridge",
+      "name": "East Ridge",
+      "dem": 2210,
+      "gop": 5140,
+      "oth": 160
+    },
+    {
+      "id": "south-park",
+      "name": "South Park",
+      "dem": 4680,
+      "gop": 3520,
+      "oth": 190
+    },
+    {
+      "id": "westvale",
+      "name": "Westvale",
+      "dem": 1740,
+      "gop": 4260,
+      "oth": 120
+    }
+  ]
+}
